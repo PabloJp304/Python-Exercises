@@ -3,22 +3,31 @@ Handling and use of functions with arrays
 2.1.1. You are required to make a modularized program (using functions and error handling) that allows you to
 to move the letter P into an MxN matrix, where M (Number of rows) and N (Number of columns) are values entered by the user.
 values entered by the user.
+
 2.1.2. The letter X will have as initial position (x, z) where x corresponding to the rows is entered by the user and z corresponding to the columns is entered by the user.
 and z corresponding to the columns is also entered by the user. The other positions must
 contain 0.
+
 2.1.3. The P will move within the matrix, but it can never go out of the established limits which are (0, 0) and
 (M, N). To move the P in the matrix must be done by taking as a basis the values contained in the following vector v: v = 1.
 the following vector v: v = 1, -1, 2, 2, 3, -1, 2, 1, 1, 0.
+
 2.1.4. Each value of the vector v will add or subtract the number of positions in the matrix according to its sign.
+
 2.1.5. The positions move in row and column as follows:
+
 2.1.5.1. The first position moves down if the value is negative, and moves up if the value is positive.
 positive.
+
 2.1.5.2. The second position moves to the left if the value is negative, and to the right if it is positive.
 positive.
 2.1.5.3. It starts again as in 2.1.5.1.
+
 2.1.6. Each time P is moved the previous position must change to 0.
+
 2.1.7. The initial matrix must be printed and then after each movement. It should be printed as follows
 below:
+
 For a 3x3 matrix with initial position 0, 1
 
 [ 0, P, 0]
