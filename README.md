@@ -1,5 +1,5 @@
 # Python-Exercises
-Handling and use of functions with arrays:
+# Handling and use of functions with arrays:
 
 2.1.1. You are required to make a modularized program (using functions and error handling) that allows you to
 to move the letter P into an MxN matrix, where M (Number of rows) and N (Number of columns) are values entered by the user.
@@ -35,7 +35,7 @@ For a 3x3 matrix with initial position 0, 1
 [ 0, 0, 0]
 [ 0, 0, 0]
 
-2.2. Develop a modular program with OOP that satisfies the following:
+# 2.2. Develop a modular program with OOP that satisfies the following:
 
 The clinical laboratory, Konoha SAS, is interested in recording the laboratory tests it performs on patients.
 patients.
