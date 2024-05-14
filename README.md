@@ -35,6 +35,14 @@ For a 3x3 matrix with initial position 0, 1
 [ 0, 0, 0]
 [ 0, 0, 0]
 
+# Code point 2.1.
+![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/8b28dd9a-960a-465d-b51d-8be69d1c5b53)
+![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/f22b50a5-cba8-4ba6-97ab-dc13674b6fd3)
+![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/86088177-60b0-46ac-8669-3970f29132aa)
+# Image of what it prints by console
+![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/58387808-e50d-41f6-b241-64451d9ff0d8)
+
+
 # 2.2. Develop a modular program with OOP that satisfies the following:
 
 The clinical laboratory, Konoha SAS, is interested in recording the laboratory tests it performs on patients.
@@ -74,3 +82,16 @@ performed with date of performance.
 From the health care providers, we would like to know NIT, contact telephone numbers, cell phone number, e-mail, name of another person to contact and contact telephone number, and type of health care provider.
 contact name and telephone number, and type of provider entity (Contributive Regime, Prepaid, Subsidized Regime, etc.).
 (Contributive Regime, Prepaid, Subsidized Regime).
+
+# Code of item 2.2.
+![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/94b0d526-0b66-4517-9f6a-71315e2685f1)
+![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/914b1d41-a7e3-4385-9eba-44571b329311)
+![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/a4342140-bae5-4dc9-929a-4f765c7eacdf)
+![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/166a11b5-1c69-414a-8035-252a87d2cbc5)
+# Image of what it prints by console
+![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/e04c7956-920b-483b-bb4e-d47531b13a76)
+
+
+
+
+
