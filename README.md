@@ -43,7 +43,7 @@ For a 3x3 matrix with initial position 0, 1
 ![image](https://github.com/PabloJp304/Python-Exercises/assets/78864967/58387808-e50d-41f6-b241-64451d9ff0d8)
 
 
-# 2.2. Develop a modular program with OOP that satisfies the following:
+# 2.2. Develop a modular program with POO that satisfies the following:
 
 The clinical laboratory, Konoha SAS, is interested in recording the laboratory tests it performs on patients.
 patients.
